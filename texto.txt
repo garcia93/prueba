@@ -1,2 +1,3 @@
 esta es una prueba para usar mi repositorio
+para subir del repositorio es con push
 chino acuerdate que para bajar del re´positorio es con pull...
